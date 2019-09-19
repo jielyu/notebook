@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message Person{
+    int32 year = 1;
+    float height = 2; // cm
+    float weight = 3; // kg
+    string id = 4;
+}
