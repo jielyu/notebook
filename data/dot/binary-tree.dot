@@ -1,0 +1,18 @@
+digraph binary_tree
+{
+    node [shape = record, height=0.3];
+    n0[label = "<left> |<mid> A| <right>"];
+    n1[label = "<left> |<mid> B| <right>"];
+    n2[label = "<left> |<mid> C| <right>"];
+    n3[label = "<left> |<mid> D| <right>", color="green", style=filled];
+    n4[label = "<left> |<mid> E| <right>", color="#00ff00", style=filled];
+    n5[label = "<left> |<mid> F| <right>", color="green", style=filled, fillcolor="red:green"];
+    n6[label = "<left> |<mid> G| <right>"];
+    
+    "n0":left -> "n1":mid [style = solid, label = "左子树"];
+    "n0":right -> "n2":mid [style = dashed, label = "右子树"];
+    "n1":left -> "n3":mid [style = bold, label = "左叶子"];
+    "n1":right -> "n4":mid [style = dotted, label = "右叶子"];
+    "n2":left -> "n5":mid [dir = both, label = "双向"];
+    "n2":right -> "n6":mid [color = "red", label = "红色"];
+}
