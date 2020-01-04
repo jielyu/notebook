@@ -15,8 +15,11 @@ I am sorry that Chinese is the only language which used by this channel, thus no
 ###  [BG55-分词工具哪家强？文本分析的利器.ipynb](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG55-%E5%88%86%E8%AF%8D%E5%B7%A5%E5%85%B7%E5%93%AA%E5%AE%B6%E5%BC%BA%EF%BC%9F%E6%96%87%E6%9C%AC%E5%88%86%E6%9E%90%E7%9A%84%E5%88%A9%E5%99%A8.ipynb)
 
 ## 内容发布渠道
-### 1. 微信公众号
+### 1. 微信公众号【青衣极客】
 ![wechat-public-qr](src/images/spread/wechat-public-qr.jpg)
+
+### 2. 头条号 【青衣极客】
+![toutiao-cnbluegeek](src/images/spread/toutiao-cnbluegeek.jpeg)
 
 
 ## 讨论交流
