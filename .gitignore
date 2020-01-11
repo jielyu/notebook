@@ -7,6 +7,7 @@ data/cifar*
 data/mnist*
 data/flower*
 *.o
+*.model
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
