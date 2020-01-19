@@ -9,6 +9,7 @@ I am sorry that Chinese is the only language which used by this channel, thus no
 
 ## 文章列表
 
+### [BG62- 一天入门python.ipynb](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG62-%20%E4%B8%80%E5%A4%A9%E5%85%A5%E9%97%A8python.ipynb)
 ### [BG61-几何变换在图像处理中有什么用.ipynb](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG61-%E5%87%A0%E4%BD%95%E5%8F%98%E6%8D%A2%E5%9C%A8%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%AD%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8.ipynb)
 
 ### [BG60-你真的比算法更懂人脸吗？.ipynb](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG60-%E4%BD%A0%E7%9C%9F%E7%9A%84%E6%AF%94%E7%AE%97%E6%B3%95%E6%9B%B4%E6%87%82%E4%BA%BA%E8%84%B8%E5%90%97%EF%BC%9F.ipynb)
