@@ -9,6 +9,7 @@ I am sorry that Chinese is the only language which used by this channel, thus no
 
 ## 文章列表
 
+### [BG65-自己动手做词云.ipynb](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG65-%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%81%9A%E8%AF%8D%E4%BA%91.ipynb)
 ### [BG64-Python发送邮件.ipynb](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG64-Python%E5%8F%91%E9%80%81%E9%82%AE%E4%BB%B6.ipynb)
 ### [BG63-OpenCV的Python调用简介.ipynb](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG63-OpenCV%E7%9A%84Python%E8%B0%83%E7%94%A8%E7%AE%80%E4%BB%8B.ipynb)
 
