@@ -9,6 +9,7 @@ I am sorry that Chinese is the only language which used by this channel, thus no
 
 ## 文章列表
 
+### [BG68-感知机-深度学习的雏形.ipynb](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG68-%E6%84%9F%E7%9F%A5%E6%9C%BA-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E9%9B%8F%E5%BD%A2.ipynb)
 ### [BG67-OpenCV做Hough变换.ipynb](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG67-OpenCV%E5%81%9AHough%E5%8F%98%E6%8D%A2.ipynb)
 ### [BG66-图像形态学操作知多少.ipynb](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG66-%E5%9B%BE%E5%83%8F%E5%BD%A2%E6%80%81%E5%AD%A6%E6%93%8D%E4%BD%9C%E7%9F%A5%E5%A4%9A%E5%B0%91.ipynb)
 ### [BG65-自己动手做词云.ipynb](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG65-%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%81%9A%E8%AF%8D%E4%BA%91.ipynb)
