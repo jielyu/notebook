@@ -8,6 +8,7 @@ I am sorry that Chinese is the only language which used by this channel, thus no
 
 
 ## 文章列表
+### [BG72 面试刷题：计数排序矩阵中的负数 | 第44期](src/BG72-leetcode-q1351.md)
 ### [BG71 面试刷题：将人们按给定组的大小归为同一组](src/BG71-leetcode-q1282.md)
 ### [BG70 面试刷题：不浪费原料的汉堡数量](src/BG70-leetcode-q1276.md)
 ### [BG69-SVM参数的两种求解方法.ipynb](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG69-SVM%E5%8F%82%E6%95%B0%E7%9A%84%E4%B8%A4%E7%A7%8D%E6%B1%82%E8%A7%A3%E6%96%B9%E6%B3%95.ipynb)
