@@ -8,6 +8,7 @@ I am sorry that Chinese is the only language which used by this channel, thus no
 
 
 ## 文章列表
+### [BG74 应当了解的Python拷贝](src/BG74-应当了解的Python拷贝.md)
 ### [BG73 面试刷题：可以参加的最大活动数](src/BG73-leetcode-q1353.md)
 ### [BG72 面试刷题：计数排序矩阵中的负数 | 第44期](src/BG72-leetcode-q1351.md)
 ### [BG71 面试刷题：将人们按给定组的大小归为同一组](src/BG71-leetcode-q1282.md)
