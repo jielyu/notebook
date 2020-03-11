@@ -43,8 +43,13 @@ I am sorry that Chinese is the only language which used by this channel, thus no
 
 
 ## 讨论交流
- 欢迎对python和人工智能感兴趣的朋友加入微信群讨论和交流：
-![wechat-group](src/images/spread/wechat-group.jpg)
 
-如果微信群邀请二维码失效，可以添加本人微信，并备注“邀请入群”。
+ 欢迎对python和人工智能感兴趣的朋友加入电报群讨论和交流：
+
+[青衣极客频道](https://t.me/cnbluegeek)
+
+[青衣极客群组](https://t.me/cnbluegeek_group)
+
+可以添加本人微信:
+
 ![cnbluegeek-qr](src/images/spread/cnbluegeek-qr.jpeg)
