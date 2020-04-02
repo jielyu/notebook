@@ -11,12 +11,15 @@ I am sorry that Chinese is the only language which used by this channel, thus no
 
 |序号|标题|文档链接|头条链接|微信链接|
 |:---:|:---:|:---:|:---:|:---:|
-|BG75| itertools加速你的Python程序|[github](src/BG75-itertools.md)|-|[微信](https://mp.weixin.qq.com/s/fVZrLGcJeB00spdaYkpCsQ)|
-|BG74| 应当了解的Python拷贝|[github](src/BG74-应当了解的Python拷贝.md)|-|[微信](https://mp.weixin.qq.com/s/3vmUyT8XAqPLNkE5QYPeMw)|
-|BG73| 面试刷题：可以参加的最大活动数|[github](src/BG73-leetcode-q1353.md)|-|[微信](https://mp.weixin.qq.com/s/eRa1dvoYDEY4S22o0ZAq0g)|
-|BG72| 面试刷题：计数排序矩阵中的负数|[github](src/BG72-leetcode-q1351.md)|-|[微信](https://mp.weixin.qq.com/s/FkPo8tl_as61LijYjCaxUA)|
-|BG71| 面试刷题：将人们按给定组的大小归为同一组|[github](src/BG71-leetcode-q1282.md)|-|[微信](https://mp.weixin.qq.com/s/nJCNa3InsT85ER2JQD6f9Q)|
-|BG70| 面试刷题：不浪费原料的汉堡数量|[github](src/BG70-leetcode-q1276.md)|-|[微信](https://mp.weixin.qq.com/s/NL2Fg_le_8uQiYM6NMDNKg)|
+|BG78|面试刷题：能被3整除的最大和|[nbviewer](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG78-leetcode-q1262-divide-3.ipynb)|[头条](http://toutiao.com/item/6810770484955709963/)|[微信](https://mp.weixin.qq.com/s/FiSLqpGMY3b134QFsYDLLw)|
+|BG77|面试刷题：移除被覆盖的区间|[nbviewer](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG77-leetcode-q1288-interval.ipynb)|[头条](http://toutiao.com/item/6810606519738958339/)|[微信](https://mp.weixin.qq.com/s/GQlvS5rk4DDQJ7JtKmKGtA)|
+|BG76|尝鲜Github Action|[nbviewer](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG76-%E5%B0%9D%E9%B2%9Cgithub_action.ipynb)|[头条](http://toutiao.com/item/6809879830566273549/)|[微信](https://mp.weixin.qq.com/s/9klEeE88nAhC4Vbvhvc4XQ)|
+|BG75| itertools加速你的Python程序|[nbviewer](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG75-itertools%E5%8A%A0%E9%80%9F%E4%BD%A0%E7%9A%84Python%E7%A8%8B%E5%BA%8F.ipynb)|[头条](http://toutiao.com/item/6802876997929271815/)|[微信](https://mp.weixin.qq.com/s/fVZrLGcJeB00spdaYkpCsQ)|
+|BG74| 应当了解的Python拷贝|[nbviewer](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG74-%E5%BA%94%E5%BD%93%E4%BA%86%E8%A7%A3%E7%9A%84Python%E6%8B%B7%E8%B4%9D.ipynb)|[头条](http://toutiao.com/item/6802406999477715460/)|[微信](https://mp.weixin.qq.com/s/3vmUyT8XAqPLNkE5QYPeMw)|
+|BG73| 面试刷题：可以参加的最大活动数|[nbviewer](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG73-leetcode-q1353.ipynb)|[头条](http://toutiao.com/item/6802405073688199684/)|[微信](https://mp.weixin.qq.com/s/eRa1dvoYDEY4S22o0ZAq0g)|
+|BG72| 面试刷题：计数排序矩阵中的负数|[nbviewer](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG72-leetcode-q1351.ipynb)|[头条](http://toutiao.com/item/6802037216009781771/)|[微信](https://mp.weixin.qq.com/s/FkPo8tl_as61LijYjCaxUA)|
+|BG71| 面试刷题：将人们按给定组的大小归为同一组|[nbviewer](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG71-leetcode-q1282.ipynb)|[头条](http://toutiao.com/item/6801703619054797325/)|[微信](https://mp.weixin.qq.com/s/nJCNa3InsT85ER2JQD6f9Q)|
+|BG70| 面试刷题：不浪费原料的汉堡数量|[nbviewer](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG70_leetcode-q1276.ipynb)|[头条](http://toutiao.com/item/6801697280555483662/)|[微信](https://mp.weixin.qq.com/s/NL2Fg_le_8uQiYM6NMDNKg)|
 |BG69|SVM参数的两种求解方法.ipynb|[nbviewer](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG69-SVM%E5%8F%82%E6%95%B0%E7%9A%84%E4%B8%A4%E7%A7%8D%E6%B1%82%E8%A7%A3%E6%96%B9%E6%B3%95.ipynb)|-|-|
 |BG68|感知机-深度学习的雏形.ipynb|[nbviewer](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG68-%E6%84%9F%E7%9F%A5%E6%9C%BA-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E9%9B%8F%E5%BD%A2.ipynb)|-|-|
 |BG67|OpenCV做Hough变换.ipynb|[nbviewer](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG67-OpenCV%E5%81%9AHough%E5%8F%98%E6%8D%A2.ipynb)|-|-|
