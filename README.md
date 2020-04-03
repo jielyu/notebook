@@ -11,6 +11,7 @@ I am sorry that Chinese is the only language which used by this channel, thus no
 
 |序号|标题|文档链接|头条链接|微信链接|
 |:---:|:---:|:---:|:---:|:---:|
+|BG79|面试刷题：分裂二叉树的最大乘积|[nbviewer](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG79-leetcode-q1339-max_product.ipynb)|-|[微信](https://mp.weixin.qq.com/s/svDYMz8ch1-L5XaFhoc54g)|
 |BG78|面试刷题：能被3整除的最大和|[nbviewer](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG78-leetcode-q1262-divide-3.ipynb)|[头条](http://toutiao.com/item/6810770484955709963/)|[微信](https://mp.weixin.qq.com/s/FiSLqpGMY3b134QFsYDLLw)|
 |BG77|面试刷题：移除被覆盖的区间|[nbviewer](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG77-leetcode-q1288-interval.ipynb)|[头条](http://toutiao.com/item/6810606519738958339/)|[微信](https://mp.weixin.qq.com/s/GQlvS5rk4DDQJ7JtKmKGtA)|
 |BG76|尝鲜Github Action|[nbviewer](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG76-%E5%B0%9D%E9%B2%9Cgithub_action.ipynb)|[头条](http://toutiao.com/item/6809879830566273549/)|[微信](https://mp.weixin.qq.com/s/9klEeE88nAhC4Vbvhvc4XQ)|
@@ -41,11 +42,11 @@ I am sorry that Chinese is the only language which used by this channel, thus no
 
 ### 1. 微信公众号【青衣极客】
 
-<div style="align:center"><img style="width:100;height:100;" src="src/images/spread/wechat-public-qr.jpg" /></div>
+<div style="text-align:center;"><img width="150" height="150" src="src/images/spread/wechat-public-qr.jpg" /></div>
 
 ### 2. 头条号 【青衣极客】
 
-<div style="align:center;"><img style="width:100;height:100;" src="src/images/spread/toutiao-cnbluegeek.jpeg" /></div>
+<div style="text-align:center;"><img width="150" height="150" src="src/images/spread/toutiao-cnbluegeek.jpeg" /></div>
 
 
 ## 讨论交流
@@ -58,4 +59,4 @@ I am sorry that Chinese is the only language which used by this channel, thus no
 
 可以添加本人微信:
 
-![cnbluegeek-qr](src/images/spread/cnbluegeek-qr.jpeg)
+<div style="text-align:center;"><img width="150" height="150" src="src/images/spread/cnbluegeek-qr.jpeg" /></div>
