@@ -38,13 +38,14 @@ I am sorry that Chinese is the only language which used by this channel, thus no
  
 
 ## 内容发布渠道
+
 ### 1. 微信公众号【青衣极客】
-<div style="align:center"><img style="width:150;height:150" src="src/images/spread/wechat-public-qr.jpg" /></div>
-![wechat-public-qr](src/images/spread/wechat-public-qr.jpg)
+
+<div style="align:center"><img style="width:150;height:150;" src="src/images/spread/wechat-public-qr.jpg;" /></div>
 
 ### 2. 头条号 【青衣极客】
-<div style="align:center"><img style="width:150;height:150" src="src/images/spread/toutiao-cnbluegeek.jpeg" /></div>
-![toutiao-cnbluegeek](src/images/spread/toutiao-cnbluegeek.jpeg)
+
+<div style="align:center;"><img style="width:150;height:150;" src="src/images/spread/toutiao-cnbluegeek.jpeg" /></div>
 
 
 ## 讨论交流
