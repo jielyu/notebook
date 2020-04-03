@@ -41,11 +41,11 @@ I am sorry that Chinese is the only language which used by this channel, thus no
 
 ### 1. 微信公众号【青衣极客】
 
-<div style="align:center"><img style="width:150;height:150;" src="src/images/spread/wechat-public-qr.jpg;" /></div>
+<div style="align:center"><img style="width:100;height:100;" src="src/images/spread/wechat-public-qr.jpg" /></div>
 
 ### 2. 头条号 【青衣极客】
 
-<div style="align:center;"><img style="width:150;height:150;" src="src/images/spread/toutiao-cnbluegeek.jpeg" /></div>
+<div style="align:center;"><img style="width:100;height:100;" src="src/images/spread/toutiao-cnbluegeek.jpeg" /></div>
 
 
 ## 讨论交流
