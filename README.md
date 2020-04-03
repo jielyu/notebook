@@ -1,11 +1,10 @@
 # notebook
+
 本repo用于编辑和分享“青衣极客”频道的笔记文件
 
 This repository is just applied to store note files for CN Bluee Geek channel
 
 I am sorry that Chinese is the only language which used by this channel, thus no English introduction is applied here. Developers who cannot understand Chinese need not to pay any attention to this repository. Thank You.
-
-
 
 ## 文章列表
 
@@ -47,7 +46,6 @@ I am sorry that Chinese is the only language which used by this channel, thus no
 ### 2. 头条号 【青衣极客】
 
 <div style="text-align:center;"><img width="150" height="150" src="src/images/spread/toutiao-cnbluegeek.jpeg" /></div>
-
 
 ## 讨论交流
 
