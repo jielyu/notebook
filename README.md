@@ -21,7 +21,7 @@ I am sorry that Chinese is the only language which used by this channel, thus no
 |BG71| 面试刷题：将人们按给定组的大小归为同一组|[nbviewer](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG71-leetcode-q1282.ipynb)|[头条](http://toutiao.com/item/6801703619054797325/)|[微信](https://mp.weixin.qq.com/s/nJCNa3InsT85ER2JQD6f9Q)|
 |BG70| 面试刷题：不浪费原料的汉堡数量|[nbviewer](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG70_leetcode-q1276.ipynb)|[头条](http://toutiao.com/item/6801697280555483662/)|[微信](https://mp.weixin.qq.com/s/NL2Fg_le_8uQiYM6NMDNKg)|
 
-[更多历史文章>>>](https://cnbluegeek.github.io/article.html)
+[更多历史文章>>>](https://cnbluegeek.github.io)
 
 ## 内容发布渠道
 
