@@ -8,6 +8,8 @@ I am sorry that Chinese is the only language which used by this channel, thus no
 
 ## 文章列表
 
+[排版完成文章](https://cnbluegeek.github.io)
+
 |序号|标题|文档链接|头条链接|微信链接|
 |:---:|:---:|:---:|:---:|:---:|
 |BG79|面试刷题：分裂二叉树的最大乘积|[nbviewer](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG79-leetcode-q1339-max_product.ipynb)|-|[微信](https://mp.weixin.qq.com/s/svDYMz8ch1-L5XaFhoc54g)|
