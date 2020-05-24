@@ -9,6 +9,12 @@ I am sorry that Chinese is the only language which used by this channel, thus no
 
 <hr/>
 
+## 特别展示
+
+|标题|链接|
+|:---:|:---:|
+|[仅供学习的Python简单AI换脸技术](https://github.com/cnbluegeek/notebook/blob/master/src/BG106-AI%E6%8D%A2%E8%84%B8.ipynb)|[nbviewer](https://nbviewer.jupyter.org/github/cnbluegeek/notebook/blob/master/src/BG106-AI%E6%8D%A2%E8%84%B8.ipynb)|
+
 ## Python 编程
 
 [最新文章](https://cnbluegeek.github.io/archive/?tag=Python)
